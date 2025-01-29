@@ -1,2 +1,2 @@
-# N vs Np Project
+# P vs Np Project
  Mathematical Theories
